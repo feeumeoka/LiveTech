@@ -18,10 +18,10 @@ Ela é limitada apenas para ajudar em uma facilidade de digitação ou execuçã
 ### Qual é a sua responsabilidade?
 
 Saber que a IA é uma ferramenta feita para facilitar processos e não concluí-los, sendo a pessoa responsável por seu trabalho e dedicação para realização de tal.
-	
+--
 ## Como as empresas  trabalham em projetos:
 
-###Equipes?
+### Equipes?
 
 As empresas podem trabalhar tanto em equipes quanto de forma individual, essas equipes podem ser posicionadas de forma presencial ou a distância, se tratando de forma presencial é preciso agir de maneira formal e de acordo com as normas da empresa, porém apesar de haver certa liberdade na modo home office é preciso atender aos datas e cronogramas de entrega do projeto.
 
