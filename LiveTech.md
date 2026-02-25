@@ -6,7 +6,7 @@ O ecossistema do nosso grupo consiste na **harmonia do trabalho em equipe** e em
 ### Disciplina: Análise de Projeto de Sistemas.
 ### Metodologia:
   O projeto conta com informações tiradas da aula e conhecimentos prévios dos estudantes, para resumo da aula, sua funcionalidade e prática nos trabalhos que serão desenvolvidos no futuro.
-Uso de IA:
+## Uso de IA:
 	Pode Usar?
 	Sim, ela serve como ferramenta para melhoria do conteúdo, mas a própria pessoa deve ter o domínio do conteúdo e aprendizado do mesmo para uso da IA como ferramenta.
 	Quais os limites?
