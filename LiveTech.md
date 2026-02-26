@@ -8,7 +8,7 @@ O ecossistema do nosso grupo consiste na **harmonia do trabalho em equipe** e em
 ## SUMÁRIO
 
 - [Metodologia](#Metodologia)
-- [Uso de IA](#Uso De IA:)
+- [Uso de IA](#UsodeIA:)
 
 
 ### Metodologia:
