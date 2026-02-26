@@ -22,6 +22,15 @@ Scaled Agile Framework (SAFe): Aplica métodos ágeis em projetos grandes e orga
 Lean Software Development: Foca em reduzir desperdícios e entregar mais valor.
 
 
+TABELA RESUMO DE CLASSIFICAÇÃO
+Fase(SDCL)                    Categoria                        Descrição
+Planejamento                 Estruturação                  Definição de escopo e viabilidade
+Análise                      Estruturação                  Levantamento de requisitos funcionais
+Design/Projeto               Estruturação                  Arquitetura e prototipagem
+Desenvolvimento              Execução                      Codificação do sistema
+Testes (QA)                  Execução                      Validação e QA
+Implantação                  Finalização                   Colocar em produção
+Implantação                  Finalização                   Suporte e melhorias
 
 
 O que é o ciclo de vida de desenvolvimento de software (SDLC):
