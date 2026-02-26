@@ -5,6 +5,12 @@ O ecossistema do nosso grupo consiste na **harmonia do trabalho em equipe** e em
 
 ### Disciplina: Análise de Projeto de Sistemas.
 
+## SUMÁRIO
+
+- [Metodologia](#Metodologia)
+- [1. Uso de IA](#IA:)
+
+
 ### Metodologia:
 
   O projeto conta com informações tiradas em sala de aula e conhecimentos prévios dos estudantes, para resumo da aula, sua funcionalidade e prática nos trabalhos que serão desenvolvidos no futuro.
