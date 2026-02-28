@@ -7,23 +7,23 @@ O ecossistema do nosso grupo consiste na **harmonia do trabalho em equipe** e em
 ### Metodologia:
 
   O projeto conta com informações tiradas em sala de aula e conhecimentos prévios dos estudantes, para resumo da aula, sua funcionalidade e prática nos trabalhos que serão desenvolvidos no futuro.
-***
+
 ## SUMÁRIO
-- [1. O que as empresas buscam em um profissional?](OqueAsEmpresasBuscam)
-  - [1.1 - O que seria APS? Qual atividade seria a primordial](OQueSeriaAPS?)
-  - [1.2 - Soft Skills ou Habilidades técnicas](SoftSkills)
-  - [1.3 - Ecossistema: o que é?](Ecossistema)
+- [1. O que as empresas buscam em um profissional?](OqueAsEmpresasBuscamEmUmProfissional?)
+  - [1.1 - O que seria APS? Qual atividade seria a primordial](OQueSeriaAPS?QualAtividadeSeriaAPrimordial)
+  - [1.2 - Soft Skills ou Habilidades técnicas](SoftSkillsOuHabilidadesTécnicas)
+  - [1.3 - Ecossistema: o que é?](Ecossistema(RedeDeAcoesPessoais):OQueÉ?)
 
 - [2. Uso de IA](UsodeIA)
   - [2.1 - Pode usar?](Podeusar?)
-  - [2.2 - Quais os limites?](Limites?)
-  - [2.3 - Qual é a sua responsabilidade?](Responsabilidade?)
+  - [2.2 - Quais os limites?](QuaisOsLimites?)
+  - [2.3 - Qual é a sua responsabilidade?](QualÉASuaResponsabilidade?)
 
-- [3. Como as empresas trabalham em projetos](ComoAsEmpresasTrabalham)
+- [3. Como as empresas trabalham em projetos](ComoAsEmpresasTrabalhamEmProjetos)
   - [3.1 - Equipes?](Equipes?)
   - [3.2 - Prática e teoria?](PráticaETeoria?)
-  - [3.3 - Qual é a melhor, uma única avaliação ou avaliação periódica?](QualÉAMelhor)
-  - [3.4 - Entregas parciais constantes ou uma única entrega? Qual é a melhor?](EntregasParciaisConstantes)
+  - [3.3 - Uma única avaliação ou avaliação periódica?](QualÉAMelhor?UmaUnicaAvaliacaoOuAvaliacaoPeriodica?)
+  - [3.4 - Entregas parciais constantes ou uma única entrega?](EntregasParciaisConstantesOuUmaUnicaEntrega?QualOMelhor?)
  
  ***
   
