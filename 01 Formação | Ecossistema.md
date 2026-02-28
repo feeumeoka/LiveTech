@@ -7,20 +7,26 @@ O ecossistema do nosso grupo consiste na **harmonia do trabalho em equipe** e em
 ### Metodologia:
 
   O projeto conta com informações tiradas em sala de aula e conhecimentos prévios dos estudantes, para resumo da aula, sua funcionalidade e prática nos trabalhos que serão desenvolvidos no futuro.
-
+***
 ## SUMÁRIO
-- [1. O que as empresas buscam em um profissional?](OqueAsEmpresasBuscamEmUmProfissional?)
-  - [1.1 O que seria APS? Qual atividade seria a primordial](OQueSeriaAPS?QualAtividadeSeriaAPrimordial)
-  - 
+- [1. O que as empresas buscam em um profissional?](OqueAsEmpresasBuscam)
+  - [1.1 - O que seria APS? Qual atividade seria a primordial](OQueSeriaAPS?)
+  - [1.2 - Soft Skills ou Habilidades técnicas](SoftSkills)
+  - [1.3 - Ecossistema: o que é?](Ecossistema)
+
 - [2. Uso de IA](UsodeIA)
-  - [2.1 Pode usar?](Podeusar?)
-  - [2.2 Quais os limites?](QuaisOsLimites?)
-  - [2.3 Qual é a sua responsabilidade?](QualéaSuaResponsabilidade?)
-- [3. Como as empresas trabalham em projetos](ComoAsEmpresasTrabalhamEmProjetos)
-  - [3.1 Equipes?](Equipes?)
-  - [3.2 Prática e teoria?](PráticaETeoria?)
-  - [3.3 Qual é a melhor, uma única avaliação ou avaliação periódica?](QualÉAMelhor,UmaÚnicaAvaliaçãoOuAvaliaçãoPeriódica?)
-  - [3.4 Entregas parciais constantes ou uma única entrega? Qual é a melhor?](EntregasParciaisConstantesOuUmaÚnicaEntrega?QualéaMelhor?)
+  - [2.1 - Pode usar?](Podeusar?)
+  - [2.2 - Quais os limites?](Limites?)
+  - [2.3 - Qual é a sua responsabilidade?](Responsabilidade?)
+
+- [3. Como as empresas trabalham em projetos](ComoAsEmpresasTrabalham)
+  - [3.1 - Equipes?](Equipes?)
+  - [3.2 - Prática e teoria?](PráticaETeoria?)
+  - [3.3 - Qual é a melhor, uma única avaliação ou avaliação periódica?](QualÉAMelhor)
+  - [3.4 - Entregas parciais constantes ou uma única entrega? Qual é a melhor?](EntregasParciaisConstantes)
+ 
+ ***
+  
 ## O que as empresas buscam em um profissional?
 
 ### O que seria APS? Qual atividade seria a primordial
@@ -37,7 +43,6 @@ Mentalidade de Resultados:
 - Visão de Negócio
 - Responsabilidade (Accountability)
 
-  
 Competências Técnicas e Digitais:
 
 - Domínio da Área
@@ -46,10 +51,56 @@ Competências Técnicas e Digitais:
 
 ### Soft Skills ou Habilidades técnicas
 
-Profissional adaptável, proativo e colaborativo, que se comunica com clareza, foca em soluções, assume responsabilidades e entende o impacto do seu trabalho nos resultados.
+Um profissional adaptável, proativo e colaborativo, que se comunica com clareza, foca em soluções, assume responsabilidades e entende o impacto do seu trabalho nos resultados.
+
+Principais Soft Skills no mercado:
+
+- Comunicação eficaz e Empatia
+- Resiliência e Adaptabilidade
+- Trabalho em Equipe e Colaboração
+- Gestão de Tempo e Organização
+- Liderança e Tomada de Decisão
+- Ensinamento Crítico e Criatividade
+
+Por que as Soft Skills são Importantes:
+
+- Diferencial Competitivo
+- Ambiente de Trabalho
+- Desenvolvimento
+
+Como Desenvolver Soft Skills:
+
+- Prática Diária
+- Autoconhecimento
+- Networking e Projetos Colaborativos
+
+As competências comportamentais (soft skills) mencionadas, refletem habilidades essenciais para o futuro do trabalho, com foco em inteligência emocional, adaptabilidade e colaboração.
+Considera-se que dois terços de todos os empregos será necessário empatia, comunicação e resolução de conflitos.
+
+## Ecossistema (rede de ações pessoais): o que é?
+
+- Adaptabilidade e Aprendizado Rápido 
+- Soft Skills em Alta Foco em Resultados
+- Saúde Mental e Equilíbrio
+- Uso Inteligente de IA
 
 
+O que as empresas buscam:
 
+- Agilidade de aprendizado
+- Atitude de dono
+- Colaboração
+
+
+Este é o ativo mais valioso porque representa o seu Capital Social:
+
+- Diversidade
+- Endosso
+- Acesso
+
+Os pontos apresentados focam no perfil profissional de alto valor para a nova economia, baseando-se em agilidade, colaboração, validação social e tecnologia.
+
+***
 
 ## Uso de IA:
 ### Pode Usar?
@@ -63,6 +114,8 @@ Ela é limitada apenas para ajudar em uma facilidade de digitação ou execuçã
 
 Saber que a IA é uma ferramenta feita para facilitar processos e não concluí-los, sendo a pessoa responsável por seu trabalho e dedicação para realização de tal.
 
+***
+
 ## Como as empresas  trabalham em projetos:
 
 ### Equipes?
@@ -72,6 +125,9 @@ As empresas podem trabalhar tanto em equipes quanto de forma individual, essas e
 ### Prática e teoria?
 
 Apesar da prática ser muito importante principalmente em áreas da tecnologia, porém é por meio da teoria que será formada a base, sem a teoria o planejamento do projeto é obtido com mais com mais dificuldade, normalmente quem possui a teoria é o membro da equipe que está em posto de liderança.
+
+***
+
 ## Como acontece a avaliação?
 
 ### Qual é a melhor, uma única avaliação ou avaliação periódica?
