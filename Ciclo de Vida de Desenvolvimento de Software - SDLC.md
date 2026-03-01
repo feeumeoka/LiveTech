@@ -1,0 +1,63 @@
+Modelo iterativo
+O modelo Iterativo trabalha por meio de ciclos, priorizando um aperfeiçoamento de ciclo em ciclo.
+Cada ciclo é composto por 5 fases: Planejamento, projeto, implementação, testes e avaliação/feedback, após a ultima fase,
+é realizado um feedback para aprimorar no proximo ciclo, é melhor classificado como Execução
+
+
+MODELO CASCATA:
+ O modelo cascata, é um modelo organizado em fases de forma sequencial , de modo que cada fase dependa da anterior.
+
+
+>>ESTRUTURAÇÂO:
+
+Levantamento de requisitos: Esta é a fase inicial do modelo de cascata, onde se busca compreender e documentar todas as necessidades do cliente ou usuário final.
+
+Análise: Após o levantamento de requisitos, ocorre a análise detalhada das informações coletadas de forma que fique clara e viável.
+
+Projeto:A fase de projeto envolve o planejamento detalhado da arquitetura do sistema ou produto.
+
+>>EXECUÇÂO:
+Implementação: Nesta etapa, o sistema ou produto começa a ser desenvolvido.
+
+>>FINALIZAÇÂO:
+
+Teste: Após a implementação, o sistema é submetido a uma fase rigorosa de testes
+
+Execução: Após a entrega do produto, inicia-se a fase de manutenção
+
+Ágil:
+
+O modelo ágil é uma metodologia de desenvolvimento baseada em ciclos curtos e contínuos, chamados de sprints, nos quais pequenas melhorias são implementadas e entregues com frequência. Ele é ideal para projetos que exigem participação constante do cliente, permitindo ajustes rápidos conforme surgem novas necessidades ou mudanças nos requisitos. Sua principal vantagem é a flexibilidade, pois facilita a identificação e correção de problemas ainda durante o desenvolvimento, evitando que se tornem maiores. Entre os frameworks mais utilizados dentro do ágil estão o Scrum e o Kanban, que organizam funções e tarefas para tornar o processo mais eficiente.
+
+Metodologia Ágil:
+
+Scrum: Divide o projeto em ciclos curtos (sprints) com papéis bem definidos.
+
+Kanban: Usa gestão visual e limita tarefas em andamento (WIP)
+
+eXtreme Programming (XP): Prioriza qualidade técnica com testes e programação em par.
+
+Feature-Driven Development (FDD): Desenvolve o sistema por funcionalidades (features).
+
+Adaptive Software Development (ASD): Baseado em adaptação constante e forte participação do cliente.
+
+Scaled Agile Framework (SAFe): Aplica métodos ágeis em projetos grandes e organizações.
+
+Lean Software Development: Foca em reduzir desperdícios e entregar mais valor.
+
+TABELA RESUMO DE CLASSIFICAÇÃO Fase(SDCL) Categoria Descrição Planejamento Estruturação Definição de escopo e viabilidade Análise Estruturação Levantamento de requisitos funcionais Design/Projeto Estruturação Arquitetura e prototipagem Desenvolvimento Execução Codificação do sistema Testes (QA) Execução Validação e QA Implantação Finalização Colocar em produção Implantação Finalização Suporte e melhorias
+
+O que é o ciclo de vida de desenvolvimento de software (SDLC):
+
+Flexibilidade de Modelos: Pode ser aplicado de forma linear (cascata) ou iterativa/paralela (ágil).
+
+Gestão de Riscos: Facilita a identificação precoce de problemas e o gerenciamento de custos e prazos.
+
+Benefícios: Aumenta a transparência, melhora a documentação, assegura a qualidade e alinha o software aos objetivos organizacionais.
+
+Abordagem Contínua: Abarca o processo desde a concepção até a manutenção
+
+
+
+
+
