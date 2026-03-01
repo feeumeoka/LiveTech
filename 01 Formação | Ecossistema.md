@@ -9,21 +9,21 @@ O ecossistema do nosso grupo consiste na **harmonia do trabalho em equipe** e em
   O projeto conta com informações tiradas em sala de aula e conhecimentos prévios dos estudantes, para resumo da aula, sua funcionalidade e prática nos trabalhos que serão desenvolvidos no futuro.
 
 ## SUMÁRIO
-- [1. O que as empresas buscam em um profissional?](OqueAsEmpresasBuscamEmUmProfissional?)
-  - [1.1 - O que seria APS? Qual atividade seria a primordial](OQueSeriaAPS?QualAtividadeSeriaAPrimordial)
-  - [1.2 - Soft Skills ou Habilidades técnicas](SoftSkillsOuHabilidadesTécnicas)
-  - [1.3 - Ecossistema: o que é?](Ecossistema(RedeDeAcoesPessoais):OQueÉ?)
+- [1. O que as empresas buscam em um profissional?](O-que-as-empresas-buscam-em-um-profissional?)
+  - [1.1 - O que seria APS? Qual atividade seria a primordial](O-que-seria-APS?-Qual-atividade-seria-a-primordial)
+  - [1.2 - Soft Skills ou Habilidades técnicas](Soft-Skills-ou-Habilidades-técnicas)
+  - [1.3 - Ecossistema: o que é?](Ecossistema-rede-de-ações-pessoais-o-que-é?)
 
-- [2. Uso de IA](UsodeIA)
-  - [2.1 - Pode usar?](Podeusar?)
-  - [2.2 - Quais os limites?](QuaisOsLimites?)
-  - [2.3 - Qual é a sua responsabilidade?](QualÉASuaResponsabilidade?)
+- [2. Uso de IA](Uso-de-IA)
+  - [2.1 - Pode usar?](Pode-usar?)
+  - [2.2 - Quais os limites?](Quais-os-limites?)
+  - [2.3 - Qual é a sua responsabilidade?](Qual-é-a-sua-responsabilidade?)
 
-- [3. Como as empresas trabalham em projetos](ComoAsEmpresasTrabalhamEmProjetos)
+- [3. Como as empresas trabalham em projetos](Como-as-empresas-trabalham-em-projetos)
   - [3.1 - Equipes?](Equipes?)
-  - [3.2 - Prática e teoria?](PráticaETeoria?)
-  - [3.3 - Uma única avaliação ou avaliação periódica?](QualÉAMelhor?UmaUnicaAvaliacaoOuAvaliacaoPeriodica?)
-  - [3.4 - Entregas parciais constantes ou uma única entrega?](EntregasParciaisConstantesOuUmaUnicaEntrega?QualOMelhor?)
+  - [3.2 - Prática e teoria?](Prática-e-teoria?)
+  - [3.3 - Uma única avaliação ou avaliação periódica?](Como-acontece-a-avaliação?-Qual-é-a-melhor,-uma-única-avaliação-ou-avaliação-periódica?)
+  - [3.4 - Entregas parciais constantes ou uma única entrega?](Entregas-parciais-constantes-ou-uma-única-entrega?-Qual-é-a-melhor?)
  
  ***
   
@@ -116,7 +116,7 @@ Saber que a IA é uma ferramenta feita para facilitar processos e não concluí-
 
 ***
 
-## Como as empresas  trabalham em projetos:
+## Como as empresas trabalham em projetos:
 
 ### Equipes?
 
@@ -128,7 +128,7 @@ Apesar da prática ser muito importante principalmente em áreas da tecnologia, 
 
 ***
 
-## Como acontece a avaliação?
+## Como acontece a avaliação? Qual é a melhor, uma única avaliação ou avaliação periódica?
 
 ### Qual é a melhor, uma única avaliação ou avaliação periódica?
 
