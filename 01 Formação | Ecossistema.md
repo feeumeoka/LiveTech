@@ -22,7 +22,7 @@ O ecossistema do nosso grupo consiste na **harmonia do trabalho em equipe** e em
 - [3. Como as empresas trabalham em projetos](#Como-as-empresas-trabalham-em-projetos)
   - [3.1 - Equipes?](#Equipes)
   - [3.2 - Prática e teoria?](#Prática-e-teoria)
-  - [3.3 - Uma única avaliação ou avaliação periódica?](#Como-acontece-a-avaliacao-Qual-é-a-melhor-uma-única-avaliação-ou-avaliação-periódica)
+  - [3.3 - Uma única avaliação ou avaliação periódica?](#Qual-é-a-melhor-uma-única-avaliação-ou-avaliação-periódica)
   - [3.4 - Entregas parciais constantes ou uma única entrega?](#Entregas-parciais-constantes-ou-uma-única-entrega-Qual-é-a-melhor)
  
  ***
