@@ -1,4 +1,6 @@
-# Questionário:
+# Planejamento dos Requisitos:
+
+## Questionário:
 Frequência de alunos e professores na biblioteca IFPR?
 
 cadastros ativos da biblioteca IFPR
@@ -48,9 +50,10 @@ Haverá diferença para cada tipo de usuário que pegar um livro (ex: Alunos, pr
 Quais logs de registros você deseja implementar (log de empréstimos, eventos recentes)? Como você deseja cada um deles e quais dados implementar (descrição,data e hora e etc.)?
 
 Como você desejaria que organizasse o sistema? tem alguma imagem ou forma de demonstrar isso?
-Quais as principais dificuldades da biblioteca?
+Quais as principais dificuldades/problemas da biblioteca?
 
-Os avisos do sistema, como funcionará? Caso um aluno esteja com livro atrasado ou faltando quantos dias pra
+Os avisos do sistema, como funcionará? Caso um aluno esteja com livro atrasado.
+quais todos os avisos do sistema tanto para usuarios ou administradores?
 
 Quais as informações necessárias para o cadastro de um aluno/professor/comunidade externa? Algum limite/regra para a senha? Tem exemplos?
 Quais as informações necessárias para o cadastro de um livro? Tem exemplos?
