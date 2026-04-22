@@ -1,0 +1,26 @@
+| Cenário | O que o critério diz | O que o protótipo mostra | Resultado |
+|---------|----------------------|--------------------------|-----------|
+| Fluxo principal | O usuário deve consultar o catálogo de verificação da disponibilidade do livro. | O protótipo permite buscar livros e exibe status disponível / emprestado | ✅ / ❌ / ⚠️ |
+| Bloqueio / erro | O sistema deve impedir o empréstimo do livro indisponível | O protótipo mostra menssagem de erro ao tentar emprestar o livro já emprestado | ✅ / ❌ / ⚠️ |
+| Alternativo | O usuário pode acessar a aba de controle do acervo para alterar status manualmente. | O protótipo possui área de controle onde é possível marcar como “emprestado” ou “disponível” | ✅ / ❌ / ⚠️ | 
+| Exceção (se houver) | Caso um novo livro seja adquirido, ele deve ser adicionado ao catálogo | O protótipo permite cadastrar novos exemplos de dados básicos  | ✅ / ❌ / ⚠️ |
+
+
+| Cenário | O que o critério diz | O que o protótipo mostra | Resultado |
+|---------|----------------------|--------------------------|-----------|
+| Fluxo principal | Usuário consulte catálogo e verifica disponibilidade para a reserva | O sistema mostra se o livro está disponível ou não | ✅ / ❌ / ⚠️ |
+| Bloqueio / erro | Sistema deve impedir a reserva de livro indisponível | Bloqueio tentativa de reserva quando não está disponível | ✅ / ❌ / ⚠️ |
+| Alternativo | Usuário pode fazer uma reserva sem interromper sua rotina | Permite reservar online de forma simples | ✅ / ❌ / ⚠️|
+| Exceção (se houver) | Quando o livro é devolvido, o sistema avisa a disponibilidade | O sistema notifica ao usuário sobre a disponibilidade | ✅ / ❌ / ⚠️ |
+| Exceção 2 | O usuário pode renovar o livro reservado quando está entrando na fila |  | O sistema adiciona o usuário na fila de reservas |  ✅ / ❌ / ⚠️ |
+| Exceção 3 | Caso o usuario nao va a biblioteca, ele pode gerar QR code para o pagamento |  | O sistema gera um QR code para o pagamento |   ✅ / ❌ / ⚠️ |
+| Exceção 4 | O próximo do vencimento, o sistema deve notificar ao usuário |  | O sistema envia notificações de vencimento |   ✅ / ❌ / ⚠️ |
+
+
+
+| Cenário | O que o critério diz | O que o protótipo mostra | Resultado |
+|---------|----------------------|--------------------------|-----------|
+| Fluxo principal |... | ... | ✅ / ❌ / ⚠️ |
+| Bloqueio / erro |...  | ... | ✅ / ❌ / ⚠️ |
+| Alternativo | ... | ... | ✅ / ❌ / ⚠️ |
+| Exceção (se houver) | ... | ... | ✅ / ❌ / ⚠️ |
