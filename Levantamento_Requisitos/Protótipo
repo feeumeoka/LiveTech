@@ -1,9 +1,15 @@
+Correção de Keyse do protótipo do Vilson
+
+
 | Cenário | O que o critério diz | O que o protótipo mostra | Resultado |
 |---------|----------------------|--------------------------|-----------|
 | Fluxo principal | O usuário deve consultar o catálogo de verificação da disponibilidade do livro. | O protótipo permite buscar livros e exibe status disponível / emprestado | ✅ / ❌ / ⚠️ |
 | Bloqueio / erro | O sistema deve impedir o empréstimo do livro indisponível | O protótipo mostra menssagem de erro ao tentar emprestar o livro já emprestado | ✅ / ❌ / ⚠️ |
 | Alternativo | O usuário pode acessar a aba de controle do acervo para alterar status manualmente. | O protótipo possui área de controle onde é possível marcar como “emprestado” ou “disponível” | ✅ / ❌ / ⚠️ | 
 | Exceção (se houver) | Caso um novo livro seja adquirido, ele deve ser adicionado ao catálogo | O protótipo permite cadastrar novos exemplos de dados básicos  | ✅ / ❌ / ⚠️ |
+
+
+Correção do Vilson do protótipo da Keyse
 
 
 | Cenário | O que o critério diz | O que o protótipo mostra | Resultado |
