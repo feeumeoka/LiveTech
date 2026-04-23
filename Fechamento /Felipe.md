@@ -1,11 +1,11 @@
 ## Etapa 1 
-Ao longo do trimestre aprendemos sobre vários assuntos, desde qual metodologia utilizar para o desenvolvimento de um software (SDLC), desde os tipos de metodologias (cascata, incremental, espiral e etc.) que para todo o desenvolvimento da biblioteca, foi utilizado o metodo cascata.
+Ao longo do trimestre aprendemos sobre vários assuntos, desde qual metodologia utilizar para o desenvolvimento de um software (SDLC), desde os tipos de metodologias (cascata, incremental, espiral e etc.) que para todo o desenvolvimento da biblioteca foi utilizado o metodo cascata.
 
-No metodo Cascata: apenas passaria para a próxima etapa do modelo, caso tenha sido completamente concluida, é uma progressão linear, mais demorado e menos flexivel.
+No metodo Cascata: apenas passaria para a próxima etapa do modelo, caso tenha sido completamente concluida, é uma progressão linear, onde a primeira etapa é o levantamento de requisitos (O qual o primeiro trimestre foi focado nisso), esse modelo é mais demorado e menos flexivel.
 
-sendo avaliado o nosso desempenho em sala por meio do modelo iterativo, onde há um ciclo de validação e verificação.
+sendo avaliado o nosso desempenho em sala por meio do modelo iterativo, onde há um ciclo de validação e verificação para o que estavamos fazendo em sala.
 
-Além disso, trabalhamos como levantar requisitos justamente para o projeto da biblioteca.
+Além disso, trabalhamos como levantar requisitos justamente para o projeto da biblioteca, analizando e aprendendo sobre as 8 tecnicas de levantamento.
 No sistema da biblioteca, nós teriamos 3 oportunidades, as duas primeiras utilizamos questionarios e levantamento de documentos como forma de levantar requisitos das bibliotecárias, sendo realizado um aperfeiçoamento das questões logo após a primeira entrega. A terceira oportunidade foi o JAD, outra tecnica de levantamento de requisitos, no qual todas as bibliotecárias estavam "presentes" e entravam em um acordo não mais para definir um requisito do zero, mas para resolver conflitos, duvidas referentes a um requisito já criado.
 
 E por fim, as histórias de usuarios e prototipação, no qual, desenvolveriamos um fluxo que o usuário (Aluno/bibliotecaria/professor) faria para acessar uma funcionalidade do sistema, criando cenários, como fluxo principal, cenário de erro e alternativos.
