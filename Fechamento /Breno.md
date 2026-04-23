@@ -1,4 +1,5 @@
 O que eu aprendi ao longo do precusso escolar:
+
 1.No começo eu fiquei com um pouco de medo por falarem bastante da dificuldade que alunos passadas passaram na matéria, mas ao meu ver a pesquisa por empresas e seu processo de formação de equipes foi o primeiro passo para desenvolver um tipo de empresa funcional
 
 2.Na segunda aula me deparei com conteúdos passados aprendidos em engenharia de software como espiral, cascata e incremental, mas também aprendi mais a respeito deSDLC e como utilizariamos ele ao decorrer do trimestre, além de organizar os afazeres da equipe e uma forma de planejamento mais eficaz.
